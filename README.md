@@ -18,6 +18,5 @@ Goal: Ship real projects, no more tutorial hell.
 - Minimum 2 pomodoros per day (except rest days)
 - Every commit = proof I did something
 - Friday = rest or catch-up only
-- By Jan 1 → live web app deployed
 
 Let’s go!
