@@ -7,7 +7,7 @@ Goal: Ship real projects, no more tutorial hell.
 
 | Week | Sat | Sun | Mon | Tue | Wed | Thu | Fri | Notes / What I Built |
 |------|-----|-----|-----|-----|-----|-----|-----|----------------------|
-| Week 1 (Nov 22–28) | [X] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |                      |
+| Week 1 (Nov 22–28) | [X] | [X] | [ ] | [ ] | [ ] | [ ] | [ ] |                      |
 | Week 2 (Nov 29–Dec 5) | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |                      |
 | Week 3 (Dec 6–12)   | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |                      |
 | Week 4 (Dec 13–19)  | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |                      |
