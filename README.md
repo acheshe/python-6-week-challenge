@@ -1,5 +1,4 @@
-![Python](https://img.shields.io/badge/Python-6_Weeks_Challenge-blue)
-![Streak](https://img.shields.io/badge/Streak-0_Days-green)
+
 # Python 6-Week Challenge 🔥
 Turning myself into a Python developer before January 2026  
 Starting date: November 22, 2025  
